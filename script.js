@@ -6,7 +6,7 @@ const student = {
 }
 
 function getkeys(obj) {
-   return object.keys(obj);
+   return Object.keys(obj);
 }
 
 console.log(getkeys(student));
