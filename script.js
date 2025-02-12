@@ -1,8 +1,8 @@
 //your JS code here. If required.
 const student = {
-	name: "kwst",
-	age: "25",
-	city: "Daman",
+	name: "John",
+	age: "30",
+	city: "New York",
 };
 
 function getkeys(obj) {
